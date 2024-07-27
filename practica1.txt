@@ -1,1 +1,9 @@
 practica1 talent care
+
+- git status
+- git add * 
+- git commit -m nombre
+
+
+1. git remote add TalentCarePracticas https://github.com/jire980604/TalentCarePracticas.git
+2. git push --set-upstream TalentCarePracticas main
